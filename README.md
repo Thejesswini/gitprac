@@ -1,4 +1,4 @@
 # gitprac
 a deep dive into git and how it can be used (for me to learn)
-<hs>
-something
+<br>
+commit something new everyday
